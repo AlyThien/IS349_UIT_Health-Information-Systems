@@ -1,0 +1,31 @@
+MaBN,HoTen,NgaySinh,GioiTinh,DiaChi,SDT,SoBHYT,NgheNghiep,DoiTuong,Email,NguoiLienHe,SDT_NguoiLienHe
+BN0001,Phan Giang,2001/13/01,Female,"23 3/2, Quan 1, HCMC",942505965,HS4359656608787,,,phan3@mail.vn,Phan Giang,84226949993
+BN0002,Phan Chau,31/02/2010,,"23 3/2, District 5, HCMC",906858811,HS4981453137054,Tu do,BHYT,phanchau@example.com,Nguyen Oanh,84258525899
+BN0003,Huynh Son,2001/13/01,Female,"12 3/2, Q5, HCMC",123456789,DN6012735002666,Cong nhan,bhyt,noemail,Vu Quynh,123456789
+BN0004,Tran Khanh,1984/08/11,f,"63 Nguyen Trai, Quan 5, HCMC",337227453,QN5900547147310,Engineer,Dich Vu,trankhanh@example.com,,84339076927
+BN0005,Le Linh,,Male,"105 Nguyen Trai, Quan 5, HCMC",,BHYT-68661450,Cong nhan,DV,noemail,Le Linh,84036132750
+BN0006,Nguyen Chau,not_a_date,Female,"90 Pham Ngu Lao, Q1, HCMC",971828159,QN7087474212037,,DV,noemail,Pham Quynh,abc1234567
+BN0007,Le Phuong,31/02/2010,Nam,"90 CMT8, Quan 1, HCMC",84306895955,HS2219284084292,GV,bhyt,,Dang Dung,922791384
+BN0008,Pham Uyên,31/02/2010,Nam,"167 Le Loi, District 10, HCMC",908147245,DN7124106375923,GV,BHYT,pham48@mail.vn,,387464065
+BN0009,Tran Nam,,M,"167 Pham Ngu Lao, Quan 1, HCMC",903718403,HS7153500984527,Hoc sinh,DV,noemail,Phan Minh,391975745
+BN0010,Phan Linh,5-8-1969,Nữ,"64 Le Loi, Quan 10, HCMC",abc1234567,BHYT-60903487,Cong nhan,bhyt,phanlinh@,Phan Giang,992463504
+BN0011,Le Nam,,m,"178 Pham Ngu Lao, Tan Binh, HCMC",84933282005,BHYT-58284051,Cong nhan,BHYT,,Nguyen Nam,abc1234567
+BN0012,Vo Binh,08/04/1999,,"108 Pham Ngu Lao, Q5, HCMC",abc1234567,DN2172497881206,Engineer,Dich Vu,,,932465242
+BN0013,Bui Linh,2001/13/01,m,"53 Nguyen Trai, Quan 10, HCMC",900703139,5593242292,Engineer,DV,builinh@,,903887022
+BN0014,Le Phuong,,Other,"9 Le Loi, Q1, HCMC",903860328,BHYT-68617960,Cong nhan,bhyt,le93@mail.vn,Pham Minh,
+BN0015,Vo Binh,15-9-1985,f,"71 Le Loi, District 10, HCMC",84482993270,QN9950256595890,Tu do,Dich Vu,noemail,Vu Oanh,996222422
+BN0016,Dang Linh,2001/13/01,Other,"147 Le Loi, Q10, HCMC",abc1234567,BHYT-85540388,Nhan vien van phong,bhyt,dang40@mail.vn,Nguyen Khanh,123456789
+BN0017,Le Khanh,1976/04/26,,"181 3/2, Q5, HCMC",961060822,2805257702,Hoc sinh,,lekhanh@example.com,Pham Uyên,abc1234567
+BN0018,Huynh Dung,31/02/2010,Other,"182 Nguyen Trai, Tan Binh Dist., HCMC",,3158171302,Hoc sinh,Dich Vu,noemail,,123456789
+BN0019,Tran Quynh,,Male,"137 Pham Ngu Lao, District 1, HCMC",949226900,HS1708077772782,Hoc sinh,BHYT,tranquynh@,Phan An,abc1234567
+BN0020,Bui Binh,not_a_date,,"178 3/2, Q10, HCMC",961436780,BHYT-01420629,Nhan vien van phong,BHYT,bui83@mail.vn,Huynh An,
+BN0021,Le Phuong,7-6-1992,Other,"49 Nguyen Trai, Quan 1, HCMC",abc1234567,DN3194106504752,Nhan vien van phong,,le48@mail.vn,Nguyen Giang,abc1234567
+BN0022,Vo Phuong,,Nam,"61 3/2, Tan Binh Dist., HCMC",84724924992,QN7805178720651,Cong nhan,bhyt,vo17@mail.vn,,84450780211
+BN0023,Huynh Giang,not_a_date,F,"198 CMT8, Tan Binh Dist., HCMC",84743129127,QN1307200714489,Engineer,,huynhgiang@example.com,,905783920
+BN0024,Pham Trang,31/02/2010,,"177 CMT8, Tan Binh, HCMC",84971452845,HS1996842505739,Engineer,Dich Vu,phamtrang@example.com,,84939432299
+BN0025,Vu Giang,2005/09/05,,"129 Pham Ngu Lao, Quan 1, HCMC",345918192,DN0078268028696,Nhan vien van phong,bhyt,vugiang@example.com,,906700493
+BN0026,Nguyen Son,,Female,"54 Nguyen Trai, Q1, HCMC",389172136,QN5990541648298,Nhan vien van phong,Dich Vu,noemail,Nguyen Linh,abc1234567
+BN0027,Vo Phuong,13-9-1987,Nữ,"66 3/2, Quan 1, HCMC",123456789,BHYT-54382833,Hoc sinh,,noemail,Le Hanh,
+BN0028,Bui Dung,not_a_date,m,"146 Le Loi, District 5, HCMC",abc1234567,BHYT-84861489,Engineer,DV,bui74@mail.vn,Huynh An,84316792074
+BN0029,Dang Uyên,31/02/2010,Other,"143 Pham Ngu Lao, Quan 5, HCMC",980389066,HS3959563014528,Hoc sinh,,danguyên@example.com,,383721048
+BN0030,Dang Hanh,2001/13/01,Male,"184 Pham Ngu Lao, District 1, HCMC",123456789,DN5021043640800,Nhan vien van phong,bhyt,danghanh@,Bui Quynh,
